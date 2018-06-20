@@ -1,0 +1,13 @@
+com\userdata\test\TestApp.class
+com\userdata\request\UserRequest.class
+com\userdata\vo\UserVo.class
+com\userdata\response\BaseResponse.class
+com\userdata\rowmappers\UserVoRowMapper.class
+com\userdata\controller\UserController.class
+com\userdata\service\impl\UserService.class
+com\userdata\config\ApplicationConfiguration.class
+com\userdata\dao\impl\UserDao.class
+com\userdata\config\ApplicationInitializer.class
+com\userdata\dao\IUserDAO.class
+com\userdata\service\IUserService.class
+com\userdata\controller\RestClientUtil.class
