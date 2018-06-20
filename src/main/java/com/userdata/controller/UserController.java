@@ -97,7 +97,7 @@ public class UserController {
                 	}
                 }else{
                 	response.setCode(404);
-                	response.setMessage("User Email Address Not Exists in the system");
+                	response.setMessage("User Email Address Not Exists in the system.");
                 	response.setStatus("User Not Exists");
                 }
                 
